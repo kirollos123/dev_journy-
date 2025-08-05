@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dev Journey
 
 🚀 Dev Joury – Core Programming Mastery (C++ & Python)
@@ -111,3 +112,6 @@ Languages: C++ (primary) & Python (secondary)
 
     Markdown & Diagrams: Visual explanation of patterns and flows
 
+=======
+# dev_journy-
+>>>>>>> 1e7707931a318bc23eaf0cc18a1f3b900453a0d0
