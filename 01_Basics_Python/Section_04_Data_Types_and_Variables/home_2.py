@@ -1,0 +1,13 @@
+name1=input("Enter your name: ")
+id1=input("Enter your ID: ")
+grade1=float(input("Enter your grade: "))
+name2=input("Enter your name: ")
+id2=input("Enter your ID: ")
+grade2=float(input("Enter your grade: "))
+print('\n\n innofmtion for student ')
+msg=name1+ '(id'+id1+') has a grade of '+str(grade1)
+print(msg)
+msg=name2+ '(id'+id2+') has a grade of '+str(grade2)
+print(msg)
+avg=(grade1+grade2)/2
+print('the average grade is ',(avg))
